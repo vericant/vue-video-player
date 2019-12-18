@@ -112,6 +112,7 @@
       trackList: {
         type: Array,
         default: () => []
+      }
     },
     data() {
       return {
@@ -236,5 +237,4 @@
       }
     }
   }
-}
 </script>
